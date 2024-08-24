@@ -4,4 +4,4 @@ compatibility_date = "2024-05-28"
 workers_dev = true
 
 [vars]
-API_KEY = ""
+API_KEY = "live"
